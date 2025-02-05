@@ -19,8 +19,8 @@ To set up the environment, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository_url>
-   cd agenticai
+   gh repo clone Sarthak2403/CodeSynthAI
+   cd CodeSynthAI
    ```
 
 2. **Create a Conda Virtual Environment**
